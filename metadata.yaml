@@ -1,0 +1,29 @@
+_repo: The-red-fetish_73604
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Long, Frank Belknap
+    birthdate: 1903
+    deathdate: 1994
+    gutenberg_agent_id: '25911'
+    url: http://www.gutenberg.org/2009/agents/25911
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Belknap_Long
+description: ''
+gutenberg_issued: '2024-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73604'
+language: en
+pgterms:marc905: 20240326121738long
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aIndianapolis, IN :$bPopular Fiction Publishing Company, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The red fetish
+url: http://www.gutenberg.org/ebooks/73604
